@@ -756,7 +756,6 @@
   <block id="2d49337d583eac8056d564e348f43744" category="list-text">Das Wiederherstellen einer Applikation ähnelt dem Klonvorgang.</block>
   <block id="af5cd1844721ca591969375d08152b0e" category="list-text">Beim Wiederherstellen einer Anwendung müssen Sie entweder ein Backup oder einen Snapshot bereitstellen.</block>
   <block id="b844ee2db8fd78557f753d0c04015c4a" category="summary">Astra Control ist ein Softwareprodukt von NetApp für das Management des Daten-Lebenszyklus für Ihre Kubernetes-Applikationen. Je nach Umgebung sind zwei Implementierungsmodelle verfügbar. Je nach Version nutzen sowohl Astra Control Center als auch Astra Control Service dieselbe REST-API. DIE REST-API und andere verwandte Automatisierungstechnologien können Sie für das Management Ihrer Astra Control Implementierungen nutzen.</block>
-  <block id="1a0ca7f0a5aea880c24d544b4655d6ed" category="doc">Dokumentation der Astra Control Automation</block>
   <block id="a5f871c981a398cb87374a1ff883bcca" category="summary">Mit dem folgenden Skript können Sie die Anwendungen für Ihr Astra-Konto auflisten.</block>
   <block id="0dca49fc2e144253162b8cbd94b3b83c" category="admonition">Siehe <block ref="471a805638f43cfd34206d9398385425" category="inline-link-macro-rx"></block> Beispiel für die erforderliche JSON-Eingabedatei.</block>
   <block id="c30daace746a4b0fbccf1758ed0282eb" category="summary">Python ist eine beliebte Entwicklungssprache bei der Datacenter-Automatisierung. Bevor Sie die nativen Funktionen von Python zusammen mit mehreren gängigen Paketen nutzen, müssen Sie die Umgebung und die erforderlichen Eingabedateien vorbereiten.</block>
@@ -1250,4 +1249,5 @@
   <block id="5a31da03b445627c9d11d99efb7cc803" category="cell">23.06</block>
   <block id="22a15af82a20adf60996d549baa48d24" category="cell">Die Berechtigungsressourcen stellen Berechtigungen für Vorgänge im System dar. Die API bietet schreibgeschützten Zugriff auf die Berechtigungen.</block>
   <block id="8fe5430b97accfa7b33d3c5887f90718" category="cell">Die Rollenressourcen stellen Rollen dar, die im System verfügbar sind. Die API bietet schreibgeschützten Zugriff auf die Rollen.</block>
+  <block id="319cbcbe823e54bc4431c0aeca14c9d6" category="sidebar">Dokumentation zu Astra Control Automation 23.07</block>
 </blocks>
