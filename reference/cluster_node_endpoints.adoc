@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/cluster_node_endpoints.html 
+summary: 'Astra API (ACS) Clusterknoten-Endpunkte' 
+---
+= Astra API (ACS) Clusterknoten-Endpunkte
+:allow-uri-read: 
+
+
+Die Cluster Node API ermöglicht den Zugriff auf die einem Cluster zugeordneten Knoten.

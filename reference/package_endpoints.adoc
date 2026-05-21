@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/package_endpoints.html 
+summary: 'Astra API (ACS)-Paket-Endpunkte' 
+---
+= Astra API (ACS)-Paket-Endpunkte
+:allow-uri-read: 
+
+
+Die Package-API repräsentiert installierbare Softwarepakete.

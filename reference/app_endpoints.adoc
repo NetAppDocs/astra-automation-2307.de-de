@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/app_endpoints.html 
+summary: 'Astra API (ACS) App-Endpunkte' 
+---
+= Astra API (ACS) App-Endpunkte
+:allow-uri-read: 
+
+
+Die App-API repräsentiert Kubernetes-Anwendungen, einschließlich solcher, die nicht von Astra verwaltet werden.

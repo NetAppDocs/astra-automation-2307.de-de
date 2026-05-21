@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/ldap_group_endpoints.html 
+summary: 'Astra API (ACS) LDAP-Gruppenendpunkte' 
+---
+= Astra API (ACS) LDAP-Gruppenendpunkte
+:allow-uri-read: 
+
+
+Die LDAP-Gruppen-API ermöglicht den Lesezugriff auf LDAP-Gruppen innerhalb des konfigurierten LDAP-Servers.

@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/license_endpoints.html 
+summary: 'Astra API (ACS) Lizenzendpunkte' 
+---
+= Astra API (ACS) Lizenzendpunkte
+:allow-uri-read: 
+
+
+Die License API repräsentiert die im Konto geladenen Lizenzen.

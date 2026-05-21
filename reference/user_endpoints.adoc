@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/user_endpoints.html 
+summary: 'Astra API (ACS) Benutzerendpunkte' 
+---
+= Astra API (ACS) Benutzerendpunkte
+:allow-uri-read: 
+
+
+Die Benutzer-API repräsentiert Benutzer, die mit dem System interagieren können.

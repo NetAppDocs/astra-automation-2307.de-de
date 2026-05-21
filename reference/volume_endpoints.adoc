@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/volume_endpoints.html 
+summary: 'Astra API (ACS) Volume-Endpunkte' 
+---
+= Astra API (ACS) Volume-Endpunkte
+:allow-uri-read: 
+
+
+Die Volume API bietet Einblick in Kubernetes-Volumes, die mit Anwendungen verknüpft sind.
