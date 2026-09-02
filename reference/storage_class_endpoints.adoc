@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Speicherklassen-Endpunkte'
 ---
 = Astra API (ACS) Speicherklassen-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Storage Class API beschreibt Speicherklassen, die einem bestimmten Cluster bekannt sind.

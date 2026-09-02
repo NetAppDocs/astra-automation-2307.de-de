@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Zeitplan-Endpunkte'
 ---
 = Astra API (ACS) Zeitplan-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Schedule API ermöglicht die Definition verschiedener geplanter Datenschutzoperationen.

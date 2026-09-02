@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Abonnement-Endpunkte'
 ---
 = Astra API (ACS) Abonnement-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Subscription API ermöglicht den Zugriff auf Abonnementressourcen, um aktive Abonnements darzustellen.

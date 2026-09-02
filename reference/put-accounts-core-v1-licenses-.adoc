@@ -7,6 +7,7 @@ summary: Eine Lizenz ändern
 ---
 = Eine Lizenz ändern
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 [.api-doc-operation .api-doc-operation-put]#PUT# [.api-doc-code-block]#`/accounts/{account_id}/core/v1/licenses/{license_id}`#
@@ -20,6 +21,7 @@ Ersetzt die gesamte gespeicherte Ressource durch den bereitgestellten JSON-Anfra
 
 
 
+[[parameters]]
 == Parameter
 
 [cols="5*"]
@@ -41,6 +43,7 @@ ID der aufzulistenden Lizenzsammlung
 |===
 
 
+[[request-body]]
 == Anfragetext
 
 Ersetzt die gesamte gespeicherte Ressource durch den bereitgestellten JSON-Anfragetext, wobei Schlüsselwerte erhalten bleiben, die vom Benutzer nicht geändert werden können.
@@ -214,6 +217,7 @@ Client- und dienstspezifische Metadaten, die der Ressource zugeordnet sind. Folg
 ====
 
 
+[[response]]
 == Antwort
 
 [source]
@@ -222,6 +226,7 @@ Status: 204, Indicates if the license resource was updated.
 ----
 
 
+[[response]]
 == Antwort
 
 [source]
@@ -267,6 +272,7 @@ Status: 401, Unauthorized
 ====
 
 
+[[response]]
 == Antwort
 
 [source]
@@ -317,6 +323,7 @@ Liste ungültiger Anfragetextfelder
 ====
 
 
+[[response]]
 == Antwort
 
 [source]
@@ -367,6 +374,7 @@ Liste ungültiger Anfragetextfelder
 ====
 
 
+[[response]]
 == Antwort
 
 [source]
@@ -412,6 +420,7 @@ Status: 403, Forbidden
 ====
 
 
+[[error]]
 == Fehler
 
 [source]
@@ -457,11 +466,13 @@ Status: 404, Not found
 ====
 
 
+[[definitions]]
 == Definitionen
 
 .Siehe Definitionen
 [%collapsible]
 ====
+[[addons]]
 [role="api-collapsible-fifth-title"]
 Add-ons
 
@@ -509,6 +520,7 @@ JSON-Zeichenkette mit dem Lizenzprotokoll dieses Add-ons. Folgende Werte sind de
 
 
 |===
+[[type_astra_label]]
 [role="api-collapsible-fifth-title"]
 Typ_Astra_Label
 
@@ -524,6 +536,7 @@ Typ_Astra_Label
 | Wert | Zeichenkette | True  a| 
 
 |===
+[[type_astra_metadata_update]]
 [role="api-collapsible-fifth-title"]
 type_astra_metadata_update
 
@@ -556,6 +569,7 @@ Client- und dienstspezifische Metadaten, die der Ressource zugeordnet sind. Folg
 | modifiedBy | Zeichenkette | Falsch  a| 
 
 |===
+[[invalidParams]]
 [role="api-collapsible-fifth-title"]
 invalidParams
 
@@ -573,6 +587,7 @@ Name des ungültigen Abfrageparameters
 Grund, warum der Abfrageparameter ungültig ist
 
 |===
+[[invalidFields]]
 [role="api-collapsible-fifth-title"]
 invalidFields
 

@@ -7,6 +7,7 @@ summary: 'Astra API (ACS)-Paket-Endpunkte'
 ---
 = Astra API (ACS)-Paket-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Package-API repräsentiert installierbare Softwarepakete.

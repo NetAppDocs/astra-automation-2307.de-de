@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Cloud-Endpunkte'
 ---
 = Astra API (ACS) Cloud-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Cloud-API ermöglicht den Zugriff auf Cloud-Ressourcen, damit Clients sich mit bestimmten Clouds verbinden können, um Cluster und Anwendungen zu verwalten.

@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Bucket-Endpunkte'
 ---
 = Astra API (ACS) Bucket-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Bucket-API ermöglicht den Zugriff auf Buckets, die zum Speichern von Anwendungs-Backups in Astra verwendet werden.

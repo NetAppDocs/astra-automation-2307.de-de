@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Volume-Endpunkte'
 ---
 = Astra API (ACS) Volume-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Volume API bietet Einblick in Kubernetes-Volumes, die mit Anwendungen verknüpft sind.

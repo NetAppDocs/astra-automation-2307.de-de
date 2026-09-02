@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Benutzerendpunkte'
 ---
 = Astra API (ACS) Benutzerendpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Benutzer-API repräsentiert Benutzer, die mit dem System interagieren können.

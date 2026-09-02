@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) Clusterknoten-Endpunkte'
 ---
 = Astra API (ACS) Clusterknoten-Endpunkte
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Die Cluster Node API ermöglicht den Zugriff auf die einem Cluster zugeordneten Knoten.
